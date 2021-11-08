@@ -7,7 +7,7 @@ NodeJs 8.4.0 based rabbitmq producer/consumer service.
 ### To run the project:  
 
 Spin rabbitmq server docker:  
-`$ docker run --name rabbitmq -p 5672:5672 -d rabbitmq`
+`$ sudo docker run --name myrabbitmq -p 5672:5672 -d rabbitmq`
 
 `$ sudo npm install`  
 
